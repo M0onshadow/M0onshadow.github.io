@@ -40,7 +40,7 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 <br/>
 ## Write-ups
 
-- Toute première write-up : Santhacklaus 2019, challenge "Call me if you can" (première partie). <a href="/ctf/Santhacklaus/CMIYC.md">Link</a><br/>
+- Toute première write-up : Santhacklaus 2019, challenge "Call me if you can" (première partie). <a href="https://m0onshadow.github.io/ctf/Santhacklaus/CMIYC.md">Link</a><br/>
 <br/>
 <br/>
 <br/>
