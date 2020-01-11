@@ -27,13 +27,13 @@ Première chose à faire : télécharger le dossier d'investigation. Une fois ch
 
 -- Enfin, un dossier `Social Networks`, contenant lui-même 3 dossiers : `Fakebook`, `Linksin` et `Minigram`. Rien de bien intéressant dans les premiers, et j'ai mis longtemps avant de le comprendre : c'est le dernier dossier qui nous intéresse.
 
-Il contient plusieurs images dont deux captures d'écran. La première : <br/>
-<img src="5688d7aa42462ea07cf682f559d5e51b.jpg"><br/>
-Rien de bien intéressant si ce n'est une conversation plus que suggestive... Passons à la deuxième image.<br/>
-<img src="f6016d5a8d4a94761268f5f27056c64e.jpg"><br/>
+Il contient plusieurs images dont deux captures d'écran. La première : <br/><br/>
+<img src="5688d7aa42462ea07cf682f559d5e51b.jpg"><br/><br/>
+Rien de bien intéressant si ce n'est une conversation plus que suggestive... Passons à la deuxième image.<br/><br/>
+<img src="f6016d5a8d4a94761268f5f27056c64e.jpg"><br/><br/>
 Oh, mais que vois-je ? Deux portions de message cachées. En zoomant, on aperçoit rapidement un `+3`.
 
-En ouvrant Gimp et manipulant la saturation et le contraste, le n° apparaît d'une manière relativement claire, et les chiffres manquants n'ont plus qu'à être devinés.<br/>
+En ouvrant Gimp et manipulant la saturation et le contraste, le n° apparaît d'une manière relativement claire, et les chiffres manquants n'ont plus qu'à être devinés.<br/><br/>
 <img src="flag.jpg">
 <br/>
 <br/>
