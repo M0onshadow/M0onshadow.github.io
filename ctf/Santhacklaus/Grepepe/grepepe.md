@@ -24,7 +24,7 @@ Tout d'abord, on télécharger le `.txt`. Premier réflexe, l'ouvrir : on a donc
 <br/>
 Ma tête quand j'ai vu ça :<br/>
 <br/>
-<img src="woah.jpg"><br/>
+<img src="woah.png"><br/>
 <br/>
 Bon, puisqu'on est sous Win, un `Ctrl + F` suffit (mode feignasse activé).<br/>
 <br/>
