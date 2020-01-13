@@ -17,7 +17,7 @@ MD5 : 6c4299aaa7c7da7250f647e3665fb7a6
 * * * 
 
 - Résolution :
-Tout d'abord, on télécharger le `.txt`. Premier réflexe, l'ouvrir : on a donc ceci face à nous.<br/>
+Tout d'abord, on télécharge le `.txt`. Premier réflexe, l'ouvrir : on a donc ceci face à nous.<br/>
 <br/>
 <img src="screen.png">
 <br/>
