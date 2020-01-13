@@ -34,7 +34,7 @@ Rien de bien intéressant si ce n'est une conversation plus que suggestive... Pa
 Oh, mais que vois-je ? Deux portions de message cachées. En zoomant, on aperçoit rapidement un `+3`.
 
 En ouvrant Gimp et manipulant la saturation et le contraste, le n° apparaît d'une manière relativement claire, et les chiffres manquants n'ont plus qu'à être devinés.<br/><br/>
-<img src="flag.jpg">
+<img src="flag.png">
 <br/>
 <br/>
 Flag : `SANTA{+33634683367}`
