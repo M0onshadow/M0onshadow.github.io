@@ -40,7 +40,8 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 <br/>
 ## Write-ups
 
-- <a href="https://m0onshadow.github.io/ctf/Santhacklaus/callme">Santhacklaus 2019, challenge "Call me if you can" (première partie).</a><br/>
+- Santhacklaus 2019 :
+  - <a href="https://m0onshadow.github.io/ctf/Santhacklaus/callme">"Call me if you can"(première partie)</a>.<br/>
 <br/>
 <br/>
 <br/>
