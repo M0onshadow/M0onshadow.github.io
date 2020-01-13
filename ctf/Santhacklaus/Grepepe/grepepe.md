@@ -6,7 +6,7 @@ layout: default
 
 - Catégorie : Misc
 - Points : 50
-- Description :
+- Description :<br/>
 ```md
 Do you know grep ? Regex ? Well you should. It's very useful, especially during CTFs. Remember the flag is something like SANTA{fl4g_f0rmAT}.
 
