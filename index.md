@@ -41,7 +41,7 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 ## Write-ups
 
 - Santhacklaus 2019 :
-  - <a href="ctf/Santhacklaus/callme">"Call me if you can"(première partie)</a>.<br/>
+  - <a href="ctf/Santhacklaus/CMIYC/callme">"Call me if you can"(première partie)</a>.<br/>
   - <a href="ctf/Santhacklaus/Grepepe/grepepe">"Grepepe"<a/><br/>
 <br/>
 <br/>
