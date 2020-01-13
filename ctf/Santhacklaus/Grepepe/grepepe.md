@@ -11,7 +11,7 @@ layout: default
 Do you know grep ? Regex ? Well you should. It's very useful, especially during CTFs. Remember the flag is something like SANTA{fl4g_f0rmAT}.
 MD5 : 6c4299aaa7c7da7250f647e3665fb7a6
 ```
-Fichier : <a href="flag.txt">flag.txt</a>
+Fichier : <a href="flag.txt" download="flag" alt="Cliquez pour télécharger">flag.txt</a>
 <br/>
 
 * * * 
