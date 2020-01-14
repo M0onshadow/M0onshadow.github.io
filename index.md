@@ -27,7 +27,7 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 
 - Un [bot Discord](https://github.com/heichou2210/fumikobot), ayant pour principales fonctionnalités les commandes `cry`, `pat`, `ping` et autres commandes de base.
 
-- ~~Un petit [script Python](https://github.com/heichou2210/Headpats) n'ayant pas de but sérieux ; en effet, il se contente de "pat" quelqu'un, donc un peu inutile.~~
+- Un petit [script Python](https://github.com/heichou2210/Headpats) n'ayant pas de but sérieux ; en effet, il se contente de "pat" quelqu'un, donc un peu inutile.
 
 - Un [bot](https://github.com/heichou2210/Rebirth_bot) pour notre petite équipe CTF Backside.
 
