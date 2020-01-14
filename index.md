@@ -18,24 +18,20 @@ Il faut avouer qu'une page sous cette forme est plus agréable, plutôt qu'une b
 * * *
 <br/>
 <br/>
-## Liens :
+## Projets :
 
-- Premier projet, le fonctionnement d'un petit robot à chenilles, le Zumo 32U4.
+- Apprentissage du [fonctionnement d'un petit robot à chenilles](https://github.com/heichou2210/zumo32u4/tree/master/first_tests), le Zumo 32U4.
 Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonctionnalités à celui-ci (cf. plus bas).
-[https://github.com/heichou2210/zumo32u4/tree/master/first_tests](https://github.com/heichou2210/zumo32u4/tree/master/first_tests)
 
-- Second projet, sur le même thème : ajout de fonctionnalités bluetooth grâce à un shield BT & une application créée via [AppInventor](https://appinventor.mit.edu). Réflexion sur la possibilité d'usage de ce robot pour la surveillance de personnes âgées ou dépourvues d'autonomie.
-[https://github.com/heichou2210/zumo32u4/tree/master/bluetooth](https://github.com/heichou2210/zumo32u4/tree/master/bluetooth)
+- Sur le même thème : ajout de [fonctionnalités bluetooth](https://github.com/heichou2210/zumo32u4/tree/master/bluetooth) grâce à un shield BT & une application créée via [AppInventor](https://appinventor.mit.edu). Réflexion sur la possibilité d'usage de ce robot pour la surveillance de personnes âgées ou dépourvues d'autonomie.
 
-- Troisième projet (abandonné depuis) : Un bot Discord, ayant pour principales fonctionnalités les commandes `cry`, `pat`, `ping` et autres commandes de base.
-[https://github.com/heichou2210/fumikobot](https://github.com/heichou2210/fumikobot)
+- Un [bot Discord](https://github.com/heichou2210/fumikobot), ayant pour principales fonctionnalités les commandes `cry`, `pat`, `ping` et autres commandes de base.
 
-- ~~Quatrième projet : Un petit script Python n'ayant pas de but sérieux ; en effet, il se contente de "pat" quelqu'un, donc un peu inutile.~~
-[https://github.com/heichou2210/Headpats](https://github.com/heichou2210/Headpats)
+- ~~Un petit [script Python](https://github.com/heichou2210/Headpats) n'ayant pas de but sérieux ; en effet, il se contente de "pat" quelqu'un, donc un peu inutile.~~
 
-- Dernier projet en date : Un bot pour notre petite équipe CTF Backside.
-[https://github.com/heichou2210/Rebith_bot](https://github.com/heichou2210/Rebirth_bot)
+- Un [bot](https://github.com/heichou2210/Rebirth_bot) pour notre petite équipe CTF Backside.
 
+- Projet de bac (STI2D SIN) : Surveillance de la qualité de l'air (en cours).
 <br/>
 <br/>
 ## Write-ups
