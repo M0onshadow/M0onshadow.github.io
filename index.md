@@ -25,7 +25,7 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 
 - Sur le même thème : ajout de [fonctionnalités bluetooth](https://github.com/heichou2210/zumo32u4/tree/master/bluetooth) grâce à un shield BT & une application créée via [AppInventor](https://appinventor.mit.edu). Réflexion sur la possibilité d'usage de ce robot pour la surveillance de personnes âgées ou dépourvues d'autonomie.
 
-- Un [bot Discord](https://github.com/heichou2210/fumikobot), ayant pour principales fonctionnalités les commandes `cry`, `pat`, `ping` et autres commandes de base.
+- Un [bot Discord](https://github.com/heichou2210/discord-bot), ayant pour principales fonctionnalités les commandes `cry`, `pat`, `ping` et autres commandes de base.
 
 - Un petit [script Python](https://github.com/heichou2210/Headpats) n'ayant pas de but sérieux ; en effet, il se contente de "pat" quelqu'un, donc un peu inutile.
 
