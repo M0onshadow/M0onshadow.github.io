@@ -25,13 +25,13 @@ Fichier : <a href="https://m0onshadow.github.io/ctf/Santhacklaus/CMIYC/files.zip
 ## Résolution :
 <br/>
 Première chose à faire : télécharger le dossier d'investigation. Une fois chose faite, observons tout d'abord chaque fichier de chaque dossier.
-<br/>
+<br/><br/>
 -- Dans `Dropsbox`, rien de très intéressant si ce ne sont des `.pdf` avec quittance de loyer, un `.png` avec un BIC/IBAN et un `.ods` récapitulant les mots de passe de la cible déjà obtenus.... Pas de n° en vue.
-<br/>
+<br/><br/>
 -- Dans `Keylog et recordings`, un `.m4a` (fichier audio) où l'on peut entendre une conversation téléphonique apparemment accidentelle et un `.txt` avec des keylogs.
-<br/>
+<br/><br/>
 -- Enfin, un dossier `Social Networks`, contenant lui-même 3 dossiers : `Fakebook`, `Linksin` et `Minigram`. Rien de bien intéressant dans les premiers, et j'ai mis longtemps avant de le comprendre : c'est le dernier dossier qui nous intéresse.
-<br/>
+<br/><br/>
 Il contient plusieurs images dont deux captures d'écran. La première : <br/><br/>
 <img src="5688d7aa42462ea07cf682f559d5e51b.jpg"><br/><br/>
 Rien de bien intéressant si ce n'est une conversation plus que suggestive... Passons à la deuxième image.<br/><br/>
