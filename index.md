@@ -5,14 +5,14 @@ layout: default
 Bienvenue sur ma page de projets. Vous pouvez contribuer directement à ceux-ci grâce à mon [Github](https://github.com/heichou2210).
 <br/>
 <br/>
-### Quoi ?
+## Quoi ?
 
 * * * 
 
 Mes différents projets, également disponibles sur mon Github. Simplement pour faire plus "soigné" ici.
 
 <br/>
-### Pourquoi ?
+## Pourquoi ?
 
 * * * 
 
