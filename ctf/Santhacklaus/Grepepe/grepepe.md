@@ -20,6 +20,7 @@ Fichier : <a href="flag.txt" download="flag.txt" title="Cliquez pour télécharg
 <br/>
 <br/>
 ## Résolution :
+<br/>
 Tout d'abord, on télécharge le `.txt`. Premier réflexe, l'ouvrir : on a donc ceci face à nous.<br/>
 <br/>
 <br/>
