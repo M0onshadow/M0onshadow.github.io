@@ -10,16 +10,15 @@ Bienvenue sur ma page de projets. Vous pouvez contribuer directement à ceux-ci 
 * * * 
 
 Mes différents projets, également disponibles sur mon Github. Simplement pour faire plus "soigné" ici.
-
 <br/>
+
 ## Pourquoi ?
 
 * * * 
 
 Il faut avouer qu'une page sous cette forme est plus agréable, plutôt qu'une banale interface Github.
+<br/>
 
-<br/>
-<br/>
 ## Projets :
 
 * * *
