@@ -24,7 +24,7 @@ Fichier : <a href="https://m0onshadow.github.io/ctf/Santhacklaus/CMIYC/files.zip
 <br/>
 ## Résolution :
 <br/>
-Première chose à faire : télécharger le dossier d'investigation. Une fois chose faite, observons tout d'abord chaque fichier des dossiers.
+Première chose à faire : télécharger le dossier d'investigation. Une fois chose faite, observons tout d'abord chaque fichier de chaque dossier.
 <br/>
 -- Dans `Dropsbox`, rien de très intéressant si ce ne sont des `.pdf` avec quittance de loyer, un `.png` avec un BIC/IBAN et un `.ods` récapitulant les mots de passe de la cible déjà obtenus.... Pas de n° en vue.
 <br/>
