@@ -14,8 +14,12 @@ MD5 : 6c4299aaa7c7da7250f647e3665fb7a6
 Fichier : <a href="flag.txt" download="flag.txt" title="Cliquez pour télécharger">flag.txt</a>
 <br/>
 
-* * * 
-- Résolution :
+* * *
+
+<br/>
+<br/>
+<br/>
+## Résolution :
 Tout d'abord, on télécharge le `.txt`. Premier réflexe, l'ouvrir : on a donc ceci face à nous.<br/>
 <br/>
 <br/>
