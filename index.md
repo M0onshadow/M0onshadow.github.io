@@ -22,6 +22,8 @@ Il faut avouer qu'une page sous cette forme est plus agréable, plutôt qu'une b
 <br/>
 ## Projets :
 
+* * *
+
 - Apprentissage du [fonctionnement d'un petit robot à chenilles](https://github.com/M0onshadow/zumo32u4/tree/master/first_tests), le Zumo 32U4.
 Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonctionnalités à celui-ci (cf. plus bas).
 
@@ -38,6 +40,8 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 <br/>
 
 ## Write-ups
+
+* * *
 
 - Santhacklaus 2019 :
   - <a href="ctf/Santhacklaus/CMIYC/callme">"Call me if you can"(première partie)</a>.<br/>
