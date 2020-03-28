@@ -32,7 +32,7 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 
 - Un [bot](https://github.com/M0onshadow/Rebirth_bot) pour notre petite équipe CTF Backside.
 
-- Projet de bac (STI2D SIN) : Surveillance de la qualité de l'air (en cours). Lien du diapo : Fichier : <a href="diapo.pdf" download="diapo.pdf" title="Cliquez pour télécharger">ici (PDF)</a>.
+- Projet de bac (STI2D SIN) : Surveillance de la qualité de l'air (en cours). Fichier : <a href="diapo.pdf" download="diapo.pdf" title="Cliquez pour télécharger">ici (PDF)</a>.
 <br/>
 <br/>
 
