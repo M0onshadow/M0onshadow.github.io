@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/m0onshadow
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://m0onshadow.github.io
+  * I am m0onshadow (https://keybase.io/m0onshadow) on keybase.
+  * I have a public key ASBwKTE5HrwuefmB3MUHGBGZvR8PnRH27ZP5BaL6pNsfqQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120702931391ebc2e79f981dcc507181199bd1f0f9d11f6ed93f905a2faa4db1fa90a",
+      "host": "keybase.io",
+      "kid": "0120702931391ebc2e79f981dcc507181199bd1f0f9d11f6ed93f905a2faa4db1fa90a",
+      "uid": "ebf68945b440c6a2a25ab1bb96566c19",
+      "username": "m0onshadow"
+    },
+    "merkle_root": {
+      "ctime": 1586189644,
+      "hash": "9c828277e454373b4a9d7b9da71470714e8608395dd5291f3ff05a9c2c29ec79278884aca4c1cf57b3e8debe71f3c158fbd0893bc0b3e2b48dd1319ea7461c96",
+      "hash_meta": "f489cad504611ee391cb2ac89da12c6bd729cfaf45dc1f7eb5a9793b4d36150b",
+      "seqno": 15790900
+    },
+    "service": {
+      "entropy": "ykLhiv59uNNQyG0+aZpwgcBI",
+      "hostname": "m0onshadow.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586189658,
+  "expire_in": 504576000,
+  "prev": "e52c2fcc986312e7b5893a0b6b1a5a16d0b7e5078ca0c6113662e24db98e6f2d",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcCkxOR68Lnn5gdzFBxgRmb0fD50R9u2T+QWi+qTbH6kKp3BheWxvYWTESpcCDsQg5SwvzJhjEue1iToLaxpaFtC35QeMoMYRNmLiTbmOby3EIC084WYtXxsR7/uwScCRZupP8kFKwWdWv+IG4fadoZzeAgHCo3NpZ8RAGm6ze2CDllYSW/C6PgYcsrJ/eb4ICxov8TE7DVEwAbVI/wOnfYaj+b1/+r8F6kslxnS6VF6Iu2hRXdTWdPoQB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDrUXlJyLf0Bzq7x3OIkO6X4ghhv3mAYM29847qPaOsco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/m0onshadow
+
+==================================================================
