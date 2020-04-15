@@ -32,7 +32,6 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 
 - Un [bot](https://github.com/M0onshadow/Rebirth_bot) pour notre petite équipe CTF Backside.
 
-- Projet de bac (STI2D SIN) : Surveillance de la qualité de l'air (en cours). Fichier : <a href="diapo.odp" download="diapo.odp" title="Cliquez pour télécharger">ici (ODP)</a>.
 <br/>
 <br/>
 
@@ -41,8 +40,8 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 * * *
 
 - Santhacklaus 2019 :
-  - <a href="ctf/Santhacklaus/CMIYC/callme">"Call me if you can"(première partie)</a>.<br/>
-  - <a href="ctf/Santhacklaus/Grepepe/grepepe">"Grepepe"<a/><br/>
+  - "Call me if you can"(première partie) [<a href="ctf/Santhacklaus/CMIYC/callme_fr">FR</a>/<a href="ctf/Santhacklaus/CMIYC/callme_eng">ENG</a>].<br/>
+  - "Grepepe" [<a href="ctf/Santhacklaus/Grepepe/grepepe_fr">FR</a>/<a href="ctf/Santhacklaus/Grepepe/grepepe_eng">ENG<a/>]<br/>
 <br/>
 <br/>
 <br/>
