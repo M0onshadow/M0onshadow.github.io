@@ -25,7 +25,7 @@ File : <a href="https://m0onshadow.github.io/ctf/Santhacklaus/CMIYC/files.zip" d
 <br/>
 First thing to do : Download investigation file. When it's done, let's take a look to every file in different folders.
 <br/><br/>
--- In `Dropsbox`, nothing of really interesting, except some `.pdf` files with rent receipt, a `.png` file with BIC/IBAN and `.ods` file with password already stolen from our target... No phone number within sight.
+-- In `Dropsbox`, nothing of really interesting, except some `.pdf` files with rent receipt, a `.png` file with BIC/IBAN and an `.ods` file with password already stolen from our target... No phone number within sight.
 <br/><br/>
 -- In `Keylog et recordings`, a `.m4a` (audio file) where we can hear a phone conversation seemingly unintended, and a `.txt` file with keylogs.
 <br/><br/>
@@ -38,7 +38,7 @@ Nothing of really interesting, it's just some kind of "hot" conversation... Let'
 Oh, what's here ? Two parts of hidden messages. While enlarging the picture, we can briefly see a `+3`.
 <br/>
 <br/>
-While opening the picture with Gimp and modifying saturation and contrast, the number phone is appearing easily, and missing digits can be guessed.<br/><br/>
+While opening the picture with Gimp and modifying saturation and contrast, the number phone is easily appearing, and missing digits can be guessed.<br/><br/>
 <img src="flag.png">
 <br/>
 <br/>
