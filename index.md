@@ -40,7 +40,7 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 * * *
 
 - Santhacklaus 2019 :
-  - "Call me if you can"(première partie) [<a href="ctf/Santhacklaus/CMIYC/callme_fr">FR</a>/<a href="ctf/Santhacklaus/CMIYC/callme_eng">ENG</a>].<br/>
+  - "Call me if you can" (première partie) [<a href="ctf/Santhacklaus/CMIYC/callme_fr">FR</a>/<a href="ctf/Santhacklaus/CMIYC/callme_eng">ENG</a>].<br/>
   - "Grepepe" [<a href="ctf/Santhacklaus/Grepepe/grepepe_fr">FR</a>/<a href="ctf/Santhacklaus/Grepepe/grepepe_eng">ENG<a/>]<br/>
 <br/>
 <br/>
