@@ -28,10 +28,6 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 
 - Sur le même thème : ajout de [fonctionnalités bluetooth](https://github.com/M0onshadow/zumo32u4/tree/master/bluetooth) grâce à un shield BT & une application créée via [AppInventor](https://appinventor.mit.edu). Réflexion sur la possibilité d'usage de ce robot pour la surveillance de personnes âgées ou dépourvues d'autonomie.
 
-- Un [bot Discord](https://github.com/M0onshadow/discord-bot), ayant pour principales fonctionnalités les commandes `cry`, `pat`, `ping` et autres commandes de base.
-
-- Un [bot](https://github.com/M0onshadow/Rebirth_bot) pour notre petite équipe CTF Backside.
-
 <br/>
 <br/>
 
