@@ -28,6 +28,7 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
 
 - Sur le même thème : ajout de [fonctionnalités bluetooth](https://github.com/M0onshadow/zumo32u4/tree/master/bluetooth) grâce à un shield BT & une application créée via [AppInventor](https://appinventor.mit.edu). Réflexion sur la possibilité d'usage de ce robot pour la surveillance de personnes âgées ou dépourvues d'autonomie.
 
+- Pour les STI2D, ça se passe par ici -> <a href="https://m0onshadow.github.io/Piles.odt" download="piles.odt">Piles.odt</a>
 <br/>
 <br/>
 
