@@ -9,7 +9,7 @@ Welcome ! Here is my project page, where I put everything that can be interestin
 
 * * *
 
-- Learning [working of Zumo 32U4](https://github.com/M0onshadow/zumo32u4/tree/master/first_tests), a little battle bot.
+- Learn [working of Zumo 32U4](https://github.com/M0onshadow/zumo32u4/tree/master/first_tests), a little battle bot.
 
 - Some hacks have been made to add [bluetooth](https://github.com/M0onshadow/zumo32u4/tree/master/bluetooth), thanks to BT Shield & [AppInventor](https://appinventor.mit.edu).
 
