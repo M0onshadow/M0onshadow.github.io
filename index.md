@@ -44,4 +44,4 @@ Destiné à faire des combats de robots, nous n'avons cessé d'ajouter des fonct
   
 * * *
 
-  [Hacker theme](https://pages-themes.github.io/hacker/)
+Proudly made with Github Pages & [Hacker theme](https://pages-themes.github.io/hacker/).
