@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome ! Here is my project page, where I put everything that can be interesting. You can find at the end of the page all my write-ups from several CTFs.
+Welcome ! Here is my project page, where I put everything that can be interesting. You can find at the end of the page all my write-ups from several CTFs. Here is a link to my [curriculum vitæ](CV___SC.pdf).
 <br/>
 <br/>
 ## Projects :
@@ -13,7 +13,7 @@ Welcome ! Here is my project page, where I put everything that can be interestin
 
 - Some hacks have been made to add [bluetooth](https://github.com/M0onshadow/zumo32u4/tree/master/bluetooth), thanks to BT Shield & [AppInventor](https://appinventor.mit.edu).
 
-<br/>
+<br/.
 <br/>
 
 ## Write-ups
