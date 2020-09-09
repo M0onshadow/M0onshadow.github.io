@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome ! Here is my project page, where I put everything that can be interesting. You can find at the end of the page all my write-ups from several CTFs. Here is a link to my [curriculum vitæ](CV___SC.pdf).
+Welcome ! Here is my project page, where I put everything that can be interesting. You can find at the end of the page all my write-ups from some CTFs. Here is a link to my [curriculum vitæ](CV___SC.pdf).
 <br/>
 <br/>
 ## Projects :
