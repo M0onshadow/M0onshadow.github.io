@@ -30,5 +30,4 @@ Welcome ! Here is my project page, where I put everything that can be interestin
 <br/><br/><br/>
 
 * * *
-
 Proudly made with Github Pages & [Hacker theme](https://pages-themes.github.io/hacker/).
