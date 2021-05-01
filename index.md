@@ -14,6 +14,7 @@ Welcome ! Here is my project page, where I put everything that can be interestin
 - Some hacks have been made to add [bluetooth](https://github.com/M0onshadow/zumo32u4/tree/master/bluetooth), thanks to BT Shield & [AppInventor](https://appinventor.mit.edu).
 <br/>
 <br/>
+
 ## Write-ups
 
 * * *
@@ -23,6 +24,7 @@ Welcome ! Here is my project page, where I put everything that can be interestin
   - "Grepepe" [<a href="ctf/Santhacklaus/Grepepe/grepepe_fr">FR</a>/<a href="ctf/Santhacklaus/Grepepe/grepepe_eng">ENG<a/>]<br/>
 <br/>
 <br/>
+  
 ## Random stuff
   
 * * *
