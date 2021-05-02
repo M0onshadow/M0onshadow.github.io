@@ -7,10 +7,10 @@ layout: default
 <br/>
 
 ### Context
- - I spent 9 months in a medico-social structure, located at Hauterives, Drôme, France. It was an adventure for me, at 650km from my house, without knowing anyone or at least the region.
 
 * * *
 
+ - I spent 9 months in a medico-social structure, located at Hauterives, Drôme, France. It was an adventure for me, at 650km from my house, without knowing anyone or at least the region.
 
 <br/>
 
