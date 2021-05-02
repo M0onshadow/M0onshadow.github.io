@@ -8,7 +8,10 @@ layout: default
 
 ### Context
  - I spent 9 months in a medico-social structure, located at Hauterives, Drôme, France. It was an adventure for me, at 650km from my house, without knowing anyone or at least the region.
+
 <br/>
+
+
 ### Month-per-month
 
  - 1st: I was a new recruit, freshly engaged and motivated for a mission in a medico-social structure, supposed to help me develop some new skills. When I started, it was a bit chaotic, all the employees weren’t here, it was the return from a 3-weeks summer camp. Also intimidated by all the work they were doing, I didn’t motivate myself to give a hand at the task. I preferred to observe them working because I learn a lot by doing this.
