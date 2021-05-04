@@ -40,6 +40,7 @@ Return of the people in mid-March. A real pleasure to see them again.
 
 - 8th: Easter pilgrimage. Quite a tiring ordeal but something very intense emotionally. Strong solidarity and courage of each one which pushes everyone to continue to advance. Presence of the Fraternity* at Easter time, a pleasant and convivial moment.
 Many birthdays were celebrated, especially those who had not been able to attend the COVID. Announcement of the home director's pregnancy to the residents.
+(\*Fraternity: a group of people who are close to a particular home and can offer their time to help when that home is in difficulty.)
 <br/>
 
 - 9th: Currently ongoing.
