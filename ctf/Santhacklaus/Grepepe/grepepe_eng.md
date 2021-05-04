@@ -41,3 +41,6 @@ Flag : `SANTA{grep_is_pretty_US3f(..)l}`
 <br/>
 <br/>
 <br/>
+
+* * *
+© Github Pages & [Hacker theme](https://pages-themes.github.io/hacker/).
