@@ -38,11 +38,11 @@ I returned to my family's home for a week, the time it took to disinfect the ent
 Return of the people in mid-March. A real pleasure to see them again.
 <br/>
 
-8th: Easter pilgrimage. Quite a tiring ordeal but something very intense emotionally. Strong solidarity and courage of each one which pushes everyone to continue to advance. Presence of the Fraternity* at Easter time, a pleasant and convivial moment.
+- 8th: Easter pilgrimage. Quite a tiring ordeal but something very intense emotionally. Strong solidarity and courage of each one which pushes everyone to continue to advance. Presence of the Fraternity* at Easter time, a pleasant and convivial moment.
 Many birthdays were celebrated, especially those who had not been able to attend the COVID. Announcement of the home director's pregnancy to the residents.
 <br/>
 
-9th: Currently ongoing.
+- 9th: Currently ongoing.
 <br/>
 
 
