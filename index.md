@@ -26,7 +26,7 @@ Welcome ! Here is my project page, where I put everything that can be interestin
 ## Random stuff
   
 * * *
-  - Feedback of a 9-months volunteering in a medico-social structure [<a href="randstuff/feedback">ENG (not full)</a>/<a href=""></a>]
+  - Feedback of a 9-months volunteering in a medico-social structure [<a href="randstuff/feedback">ENG</a>/<a href="randstuff/retexp">FR</a>]
 <br/><br/><br/>
 
 * * *
