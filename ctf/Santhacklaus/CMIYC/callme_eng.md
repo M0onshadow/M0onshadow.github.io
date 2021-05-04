@@ -46,3 +46,6 @@ Flag : `SANTA{+33634683367}`
 <br/>
 <br/>
 <br/>
+
+* * *
+© Github Pages & [Hacker theme](https://pages-themes.github.io/hacker/).
