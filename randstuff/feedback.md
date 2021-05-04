@@ -45,4 +45,9 @@ Many birthdays were celebrated, especially those who had not been able to attend
 <br/>
 
 - 9th: Currently ongoing.
+<br/>
+<br/>
+<br/>
 
+* * *
+© Github Pages & [Hacker theme](https://pages-themes.github.io/hacker/).
